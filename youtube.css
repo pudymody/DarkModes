@@ -253,4 +253,7 @@
 	html .watch-skeleton .skeleton-light-border-bottom {
 	 border-bottom:1px solid hsla(0,100%,100%,.08)
 	}
+	html ytd-masthead.shell {
+		background: var(--yt-spec-brand-background-primary);
+	}
 }
